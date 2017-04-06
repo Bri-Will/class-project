@@ -8,7 +8,7 @@ This is from a past Kaggle [competition](https://www.kaggle.com/c/expedia-hotel-
 
 ## What data are you planning to use to answer that question?
 
-The data is provided as part of the Kaggle competition. It consists of a "destinations.csv" file which provides descriptive data about destinations the user is searching for, and training/testing data which provides information about the users' interaction with 
+The data is provided as part of the Kaggle competition. It consists of a "destinations.csv" file which provides descriptive data about destinations the user is searching for, and training/testing data which provides information about the users' interaction with the search results
 
 ## What do you know about the data so far?
 
