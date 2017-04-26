@@ -8,11 +8,11 @@ This is from a past Kaggle [competition](https://www.kaggle.com/c/expedia-hotel-
 
 ## What data are you planning to use to answer that question?
 
-The data is provided as part of the Kaggle competition. It consists of a "destinations.csv" file which provides descriptive data about destinations the user is searching for, and training/testing data which provides information about the users' interaction with the search results
+The [data](https://www.kaggle.com/c/expedia-hotel-recommendations/data) is provided as part of the Kaggle competition. It consists of a "destinations.csv" file which provides descriptive data about destinations the user is searching for, and training/testing data which provides information about the users' interaction with the search results
 
 ## What do you know about the data so far?
 
-* Everything is provided via CSV files
+* Everything is provided via CSV files.
 * I know that I will likely need to "join" data between the two files
 * The customer activity includes both click events and booking events
 * There is a lot of data...nearly 4GB and 3 million observations. I'm worried I may not have enough CPU horsepower to deal with it all
